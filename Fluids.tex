@@ -12,7 +12,7 @@
  \usepackage{apacite}
  \usepackage{multicol}
  \usepackage{parskip}
- \usepackage{setspace}
+ \usepackage{setspace} 
  \doublespacing
 \begin{document}
 \begin{titlepage}
@@ -62,27 +62,100 @@ y las especificaciones técnicas.
 
 \section*{Teoría Relacionada}
 \addcontentsline{toc}{section}{Teoría Relacionada}
-\subsubsection*{Principio de Arquímedes}
-\setlength{\parindent}{18pt} 
-Los barcos flotan, gracias los aportes realizados por Arquímedes (Principio de Arquímedes);
- la cual establece que cuando un objeto se sumerge total o parcialmente en un líquido, 
- éste experimenta un empuje hacia arriba igual al peso del líquido desalojado;
-dicha fuerza es vertical y está dirigida hacia arriba. El Empuje es igual al peso del volumen de líquido desplazado, y 
-está aplicado en un punto denominado centro de empuje, que coincide con el centro de gravedad del objeto, 
-cuando éste se encuentra en reposo (Redín Muñoz, 2007a).
-$$E=V_{c} \cdot \gamma $$
+\subsubsection*{Hidrostática}
+\setlength{\parindent}{18pt}
+
+El término hidrostática se refiere al estudio de los fluidos en reposo.
+
+\subsubsection*{Fluido}
+\setlength{\parindent}{18pt}
+Un fluido es una sustancia que se deforma continuamente cuando es sometida 
+a un esfuerzo cortante, no importa si el esfuerzo cortante es muy pequeño. (Streter y Wylie, 1997). 
 
 \subsubsection*{Principio de Arquímedes}
+\setlength{\parindent}{18pt}
+Se conoce que los barcos flotan, gracias a los aportes realizados por Arquímedes (Principio de Arquímedes);
+la cual establece que, ``La fuerza de flotación que actúa sobre un cuerpo sumergido en un fluido es igual
+al peso del fluido desplazado por el cuerpo y actúa hacia arriba pasando por el
+centroide del volumen desplazado. Para los cuerpos flotantes, el peso del cuerpo completo debe ser igual a la fuerza
+de flotación ($F_{e}$), la cual es el peso del fluido ($W$) cuyo volumen es igual al de la parte sumergida
+de ese cuerpo; '', (Cengel and Cimbala, 2020). 
+\begin{equation}
+	F_{e}= W = \gamma \cdot  V_{sum} 
+\end{equation}
+
+\subsubsection*{Centro de gravedad}
+\setlength{\parindent}{18pt}
+Es el punto de aplicación del peso del cuerpo y que no varía con la posición del cuerpo. La ubicación del C.G, 
+depende de la forma del objeto, e inclusive pueda que se encuentre fuera del objeto (Hernández et al., 2019).
+
+\subsubsection*{Casco de deplazamiento}
+\setlength{\parindent}{18pt}
+Los barcos con cascos de desplazamiento a menudo se distinguen por una forma de "V" profunda en la parte 
+inferior o en el casco. Este tipo de casco está diseñado para impulsarse a través del agua, desplazando 
+la superficie del agua en una proporción igual al peso de la embarcación (Escola Port Aula Náutica, 2022).
+\subsubsection*{Dimensiones del Barco}
+\setlength{\parindent}{18pt}
+Para cualquier diseño de una embarcación que se desea analizar, es necesario conocer cada parte de esta 
+estructura ingenieril. Las dimensiones principales que conforman un barco son, eslora máxima, es la longitud 
+total del casco, la cual comprende desde la proa hasta la popa, manga máxima, es la mayor anchura de la 
+cuaderna con estructuras asentadas, el calado, es la distancia desde la parte inferior de la quilla a la 
+línea de flotación, el puntal, es la distancia máxima vertical medida desde la quilla hasta cubierta 
+principal, la escora, es el ángulo de inclinación lateral de la embarcación y el asiento, es la diferencia
+ en inclinación entre los calados de popa y de proa, esta se clasifica en apopante, apropante y neutro o sentado.
+ \begin{figure}[h]
+	\centering
+	\includegraphics[width=0.5 \textwidth]{dimensionestemporal.jpg}
+	\caption{ Posición del metacentro}
+	\label{fig:imagen}
+\end{figure}
+\subsubsection*{Estabilidad}
+\setlength{\parindent}{18pt}
+La estabilidad es la propiedad de un objeto que tiende a volver a su posición original cuando el recipiente 
+se mueve fuera del equilibrio uniforme, bajo la influencia de ciertas fuerzas o momentos restauradores. 
+En un sistema en movimiento, como un objeto en el agua, la estabilidad a menudo requiere una fuerza de 
+restauración y un factor de amortiguamiento (Redín Muñoz, 2007).
+
+\subsubsection*{Metacentro}
+\setlength{\parindent}{18pt}
+El Metacentro, se define como la intercepción del eje vertical de un cuerpo cuando está en su posición 
+de equilibrio, con una línea vertical que pasa a través de la nueva posición del centro de flotación 
+cuando el cuerpo gira.
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.5 \textwidth]{Metacentrotemporal.jpg}
+	\caption{ Posición del metacentro}
+	\label{fig:imagen}
+\end{figure}
+\newline
+Donde:
+\newline
+\textbf{G}, es el centro de gravedad.
+\newline
+\textbf{C}, es el centro geométrico de la carena sumergida.
+\newline
+\textbf{M}, es el punto de cruce de la línea vertical del centro del cuerpo con el plano de la línea central, 
+conocido como Metacentro.
 
 
-
-
-
+Si {M} se sitúa arriba del centro de gravedad, el cuerpo es estable (Mott, 2006).
+\subsubsection*{Flotabilidad}
+\setlength{\parindent}{18pt}
+La flotabilidad se define como aquella capacidad que posee un cuerpo para sostenerse dentro de un fluido, 
+donde la fuerza flotación actúa en dirección vertical hacia arriba a través del centroide del volumen 
+desplazado, (Mott, 2006).
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.5 \textwidth]{flotabilidadtemporal.jpg}}
+	\caption{Flotabilidad de un barco}
+	\label{fig:imagen}
+\end{figure}
 \newpage
 \section*{¿Qué se hizo?}
 \addcontentsline{toc}{section}{¿Qué se hizo?}
 El objetivo de este proyecto fué estudiar el movimiento del casco de un bote y realizar cálculos empíricos
-de su flotabilidad, estabilidad y análisis de fuerzas. En la práctica, se construyó el casco de un barco a escala y se realizaron experimentos para medir. \begin{itemize}
+de su flotabilidad, estabilidad y análisis de fuerzas. En la práctica, se construyó el casco de un barco a escala y se realizaron experimentos para medir.
+\begin{itemize}
 	\item El centro de flotabilidad.
 	\item El metacentro
 	\item
@@ -99,6 +172,7 @@ Los materiales utilizados para el desarrollo de este casco fueron:
 	\item
 	\item
 \end{itemize}
+
 \newpage
 \section*{Contenido y Resultados}
 \addcontentsline{toc}{section}{Contenido y Resultados}

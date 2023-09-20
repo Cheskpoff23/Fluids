@@ -2,7 +2,7 @@
 \contentsline {section}{Introducción}{2}{}%
 \contentsline {section}{Objetivos}{3}{}%
 \contentsline {section}{Teoría Relacionada}{4}{}%
-\contentsline {section}{¿Qué se hizo?}{5}{}%
-\contentsline {section}{Materiales y métodos}{5}{}%
-\contentsline {section}{Contenido y Resultados}{6}{}%
-\contentsline {section}{Conclusiones}{9}{}%
+\contentsline {section}{¿Qué se hizo?}{7}{}%
+\contentsline {section}{Materiales y métodos}{7}{}%
+\contentsline {section}{Contenido y Resultados}{8}{}%
+\contentsline {section}{Conclusiones}{11}{}%
