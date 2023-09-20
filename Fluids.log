@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.19)  19 SEP 2023 20:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.19)  19 SEP 2023 21:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -321,7 +321,17 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
- (Fluids.aux)
+ (Fluids.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+
+
+LaTeX Warning: Label `fig:imagen' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen' multiply defined.
+
+)
 \openout1 = `Fluids.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
@@ -401,96 +411,82 @@ LaTeX Info: Redefining \BPBI on input line 138.
 LaTeX Info: Redefining \BHBI on input line 139.
 ) [1
 
-{C:/Users/gusta/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-No file Fluids.toc.
+{C:/Users/gusta/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Fluids.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
 \tf@toc=\write3
 \openout3 = `Fluids.toc'.
 
-[1]
-Underfull \hbox (badness 10000) in paragraph at lines 38--40
+ [1]
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
 
  []
 
 [2] [3]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 81.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 80.
  (C:\Users\gusta\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 81.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 80.
  (C:\Users\gusta\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <dimensionestemporal.jpg, id=18, 306.52449pt x 216.81pt>
 File: dimensionestemporal.jpg Graphic file (type jpg)
 <use dimensionestemporal.jpg>
-Package pdftex.def Info: dimensionestemporal.jpg  used on input line 108.
+Package pdftex.def Info: dimensionestemporal.jpg  used on input line 107.
 (pdftex.def)             Requested size: 236.01561pt x 166.9409pt.
  [4]
 <Metacentrotemporal.jpg, id=25, 143.02385pt x 119.94812pt>
 File: Metacentrotemporal.jpg Graphic file (type jpg)
 <use Metacentrotemporal.jpg>
-Package pdftex.def Info: Metacentrotemporal.jpg  used on input line 126.
+Package pdftex.def Info: Metacentrotemporal.jpg  used on input line 125.
 (pdftex.def)             Requested size: 236.01561pt x 197.9461pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5 <./dimensionestemporal.jpg>]
-<flotabilidadtemporal.jpg, id=29, 245.83409pt x 149.47409pt>
-File: flotabilidadtemporal.jpg Graphic file (type jpg)
-<use flotabilidadtemporal.jpg>
-Package pdftex.def Info: flotabilidadtemporal.jpg  used on input line 149.
-(pdftex.def)             Requested size: 236.01561pt x 143.50716pt.
-
-c:/Users/gusta/OneDrive - SENA/Desktop/Fluids/Fluids.tex:152: Extra }, or forgotten \endgroup.
-\@endfloatbox ...pagefalse \outer@nobreak \egroup 
-                                                  \color@endbox 
-l.152 \end{figure}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-[6 <./Metacentrotemporal.jpg> <./flotabilidadtemporal.jpg>] [7]
-<imgbarcoplano.png, id=37, 447.17062pt x 181.42781pt>
+[5 <./dimensionestemporal.jpg>] [6 <./Metacentrotemporal.jpg>] [7]
+<imgbarcoplano.png, id=36, 447.17062pt x 181.42781pt>
 File: imgbarcoplano.png Graphic file (type png)
 <use imgbarcoplano.png>
-Package pdftex.def Info: imgbarcoplano.png  used on input line 182.
+Package pdftex.def Info: imgbarcoplano.png  used on input line 176.
 (pdftex.def)             Requested size: 472.03123pt x 191.51804pt.
-<imgbarcofinal.png, id=39, 182.93344pt x 67.75313pt>
+<imgbarcofinal.png, id=38, 182.93344pt x 67.75313pt>
 File: imgbarcofinal.png Graphic file (type png)
 <use imgbarcofinal.png>
-Package pdftex.def Info: imgbarcofinal.png  used on input line 191.
+Package pdftex.def Info: imgbarcofinal.png  used on input line 185.
 (pdftex.def)             Requested size: 236.01561pt x 87.41841pt.
 File: imgbarcofinal.png Graphic file (type png)
 <use imgbarcofinal.png>
-Package pdftex.def Info: imgbarcofinal.png  used on input line 200.
+Package pdftex.def Info: imgbarcofinal.png  used on input line 194.
 (pdftex.def)             Requested size: 377.62642pt x 139.88104pt.
  [8 <./imgbarcoplano.png> <./imgbarcofinal.png>]
 File: imgbarcofinal.png Graphic file (type png)
 <use imgbarcofinal.png>
-Package pdftex.def Info: imgbarcofinal.png  used on input line 209.
+Package pdftex.def Info: imgbarcofinal.png  used on input line 203.
 (pdftex.def)             Requested size: 377.62642pt x 139.88104pt.
  [9]
-Underfull \hbox (badness 10000) in paragraph at lines 220--222
+Underfull \hbox (badness 10000) in paragraph at lines 214--216
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--231
+Underfull \hbox (badness 10000) in paragraph at lines 221--225
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--239
+Underfull \hbox (badness 10000) in paragraph at lines 229--233
 
  []
 
-[10] [11]
-No file Fluids.bbl.
-[12] (Fluids.aux
+[10] [11] (Fluids.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+) [12] (Fluids.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
@@ -500,21 +496,21 @@ L3 programming layer <2023-08-29>
  ***********
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 7236 strings out of 475248
- 117958 string characters out of 5757813
+ 7238 strings out of 475248
+ 117998 string characters out of 5757813
  1928801 words of memory out of 5000000
- 28657 multiletter control sequences out of 15000+600000
+ 28654 multiletter control sequences out of 15000+600000
  561891 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,7n,93p,569b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Fluids.pdf (13 pages, 309576 bytes).
+Output written on Fluids.pdf (13 pages, 276747 bytes).
 PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
+ 97 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

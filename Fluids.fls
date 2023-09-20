@@ -125,6 +125,9 @@ OUTPUT Fluids.pdf
 INPUT C:\Users\gusta\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\gusta\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\gusta\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\Fluids.toc
+INPUT .\Fluids.toc
+INPUT Fluids.toc
 OUTPUT Fluids.toc
 INPUT C:\Users\gusta\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\gusta\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
@@ -154,13 +157,6 @@ INPUT .\Metacentrotemporal.jpg
 INPUT .\Metacentrotemporal.jpg
 INPUT .\Metacentrotemporal.jpg
 INPUT .\Metacentrotemporal.jpg
-INPUT .\flotabilidadtemporal.jpg
-INPUT .\flotabilidadtemporal.jpg
-INPUT .\flotabilidadtemporal.jpg
-INPUT .\flotabilidadtemporal.jpg
-INPUT .\flotabilidadtemporal.jpg
-INPUT .\flotabilidadtemporal.jpg
-INPUT .\flotabilidadtemporal.jpg
 INPUT .\imgbarcoplano.png
 INPUT .\imgbarcoplano.png
 INPUT .\imgbarcoplano.png
@@ -183,6 +179,9 @@ INPUT .\imgbarcofinal.png
 INPUT .\imgbarcofinal.png
 INPUT .\imgbarcofinal.png
 INPUT .\imgbarcofinal.png
+INPUT .\Fluids.bbl
+INPUT .\Fluids.bbl
+INPUT Fluids.bbl
 INPUT Fluids.aux
 INPUT C:\Users\gusta\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\gusta\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
