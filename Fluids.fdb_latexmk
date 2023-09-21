@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex Fluids"] 1695232762 "Fluids.aux" "Fluids.bbl" "Fluids" 1695232863 0
+["bibtex Fluids"] 1695239252 "Fluids.aux" "Fluids.bbl" "Fluids" 1695239255 0
   "./referenciados.bib" 1695175037 0 d41d8cd98f00b204e9800998ecf8427e ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/bibtex/bst/apacite/apacite.bst" 1374952728 146156 9d7b79dbf9d91133318126032cff8c27 ""
-  "Fluids.aux" 1695232861 3379 e1b9af04f9db933257200751ee47478c "pdflatex"
+  "Fluids.aux" 1695239254 3379 e1b9af04f9db933257200751ee47478c "pdflatex"
   (generated)
   "Fluids.bbl"
   "Fluids.blg"
   (rewritten before read)
-["pdflatex"] 1695232858 "c:/Users/gusta/OneDrive - SENA/Desktop/Fluids/Fluids.tex" "Fluids.pdf" "Fluids" 1695232863 0
+["pdflatex"] 1695239252 "c:/Users/gusta/OneDrive - SENA/Desktop/Fluids/Fluids.tex" "Fluids.pdf" "Fluids" 1695239255 0
   "C:/Users/gusta/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1695232033 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/gusta/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1695120301 24142036 e4ea9d5291b0248cfcdf345065ad18be ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1233951848 1120 1e8878807317373affa7f7bba4cf2f6a ""
@@ -213,19 +213,19 @@
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/latex/pgfplots/pgfplots.sty" 1621075461 4904 ee78b44e85d6fccf08cd99370557481e ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/latex/psfrag/psfrag.sty" 1656241896 7349 04574cd13971edb76f06a9e2e9a108d9 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/latex/setspace/setspace.sty" 1670403145 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
-  "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/latex/tocloft/tocloft.sty" 1578908763 37263 3e78d14f0f4b1a30560fea5e04de805d ""
+  "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/latex/tocloft/tocloft.sty" 1695233398 37161 ebe48fd07c2a69b0b236071e9ad0b9ee ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/latex/tools/bm.sty" 1686255640 13231 df28b16cc1506f657b947b66cabad463 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1686255640 10214 75bcd28386d4b4b9f28b2aff3cea7b24 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1686255640 32515 51caec75eda9c8890135f12f1a4eddc3 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1650051284 2245 c8a4088d07cffc2e5207730c738edd76 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1650051284 20785 71a3d72ab517959a6979c27e6176bec1 ""
-  "Fluids.aux" 1695232861 3379 e1b9af04f9db933257200751ee47478c "pdflatex"
-  "Fluids.bbl" 1695232763 52 0eba253fc001332e731e8aba3f23127b "bibtex Fluids"
-  "Fluids.tex" 1695232857 12540 784dfb539c6c5f76ee0589975ab94b40 ""
-  "Fluids.toc" 1695232861 1317 3881df27c6c34e67745e6a1e81312370 "pdflatex"
+  "Fluids.aux" 1695239254 3379 e1b9af04f9db933257200751ee47478c "pdflatex"
+  "Fluids.bbl" 1695239252 52 0eba253fc001332e731e8aba3f23127b "bibtex Fluids"
+  "Fluids.tex" 1695238760 12591 472e8457a8ba8ca9ac19765bb3cd8e10 ""
+  "Fluids.toc" 1695239254 1317 3881df27c6c34e67745e6a1e81312370 "pdflatex"
   "Metacentrotemporal.jpg" 1695165648 6795 ac2541571b03e92e1d3128e918b80698 ""
-  "c:/Users/gusta/OneDrive - SENA/Desktop/Fluids/Fluids.tex" 1695232857 12540 784dfb539c6c5f76ee0589975ab94b40 ""
+  "c:/Users/gusta/OneDrive - SENA/Desktop/Fluids/Fluids.tex" 1695238760 12591 472e8457a8ba8ca9ac19765bb3cd8e10 ""
   "dimensionestemporal.jpg" 1695168452 43308 4966d2e7e2263b470e90f897e4c2e6ff ""
   "imgbarcofinal.png" 1694993051 1656 4bc8189585bcd6fae452b357eb029680 ""
   "imgbarcoplano.png" 1694993737 98491 ffc7d81747ee030bb9b21930b27fe08a ""

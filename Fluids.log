@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.19)  20 SEP 2023 13:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.19)  20 SEP 2023 14:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -797,10 +797,6 @@ Package tocloft Info: The document has section divisions on input line 51.
 \cftbeforetabskip=\skip164
 \cfttabindent=\skip165
 \cfttabnumwidth=\skip166
-
-
-Package tocloft Warning: \@starttoc has already been redefined; tocloft bailing out. on input line 1156.
-
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -913,7 +909,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout5 = `Fluids.toc'.
 
  [1]
-Underfull \hbox (badness 10000) in paragraph at lines 47--53
+Underfull \hbox (badness 10000) in paragraph at lines 48--54
 
  []
 
@@ -921,46 +917,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--53
 <dimensionestemporal.jpg, id=21, 306.52449pt x 216.81pt>
 File: dimensionestemporal.jpg Graphic file (type jpg)
 <use dimensionestemporal.jpg>
-Package pdftex.def Info: dimensionestemporal.jpg  used on input line 121.
+Package pdftex.def Info: dimensionestemporal.jpg  used on input line 123.
 (pdftex.def)             Requested size: 234.87769pt x 166.137pt.
  [4] [5 <./dimensionestemporal.jpg>]
 <Metacentrotemporal.jpg, id=31, 143.02385pt x 119.94812pt>
 File: Metacentrotemporal.jpg Graphic file (type jpg)
 <use Metacentrotemporal.jpg>
-Package pdftex.def Info: Metacentrotemporal.jpg  used on input line 140.
+Package pdftex.def Info: Metacentrotemporal.jpg  used on input line 142.
 (pdftex.def)             Requested size: 140.92804pt x 118.19624pt.
  [6 <./Metacentrotemporal.jpg>] [7]
 <imgbarcoplano.png, id=39, 447.17062pt x 181.42781pt>
 File: imgbarcoplano.png Graphic file (type png)
 <use imgbarcoplano.png>
-Package pdftex.def Info: imgbarcoplano.png  used on input line 191.
+Package pdftex.def Info: imgbarcoplano.png  used on input line 193.
 (pdftex.def)             Requested size: 469.75539pt x 190.59618pt.
 <imgbarcofinal.png, id=41, 182.93344pt x 67.75313pt>
 File: imgbarcofinal.png Graphic file (type png)
 <use imgbarcofinal.png>
-Package pdftex.def Info: imgbarcofinal.png  used on input line 200.
+Package pdftex.def Info: imgbarcofinal.png  used on input line 202.
 (pdftex.def)             Requested size: 234.87769pt x 86.99661pt.
 File: imgbarcofinal.png Graphic file (type png)
 <use imgbarcofinal.png>
-Package pdftex.def Info: imgbarcofinal.png  used on input line 209.
+Package pdftex.def Info: imgbarcofinal.png  used on input line 211.
 (pdftex.def)             Requested size: 375.80574pt x 139.20699pt.
  [8 <./imgbarcoplano.png> <./imgbarcofinal.png>]
 File: imgbarcofinal.png Graphic file (type png)
 <use imgbarcofinal.png>
-Package pdftex.def Info: imgbarcofinal.png  used on input line 218.
+Package pdftex.def Info: imgbarcofinal.png  used on input line 220.
 (pdftex.def)             Requested size: 375.80574pt x 139.20699pt.
  [9]
-Underfull \hbox (badness 10000) in paragraph at lines 229--231
+Underfull \hbox (badness 10000) in paragraph at lines 231--233
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--240
+Underfull \hbox (badness 10000) in paragraph at lines 238--242
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--248
+Underfull \hbox (badness 10000) in paragraph at lines 246--250
 
  []
 
@@ -986,7 +982,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  99i,7n,103p,765b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Fluids.pdf (13 pages, 280466 bytes).
+Output written on Fluids.pdf (13 pages, 279507 bytes).
 PDF statistics:
  100 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
