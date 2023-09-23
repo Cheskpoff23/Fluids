@@ -76,6 +76,39 @@ Mott, R\BPBI L.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Pacheco%
+\ \BBA {} Bello%
+}{%
+Pacheco%
+\ \BBA {} Bello%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+Pacheco2023-yg}
+\APACinsertmetastar {%
+Pacheco2023-yg}%
+\begin{APACrefauthors}%
+Pacheco, M\BPBI J\BPBI B.%
+\BCBT {}\ \BBA {} Bello, C\BPBI A\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2023}.
+\unskip\
+\newblock
+\APACrefbtitle {DISE{\~N}O {DE} {UN} {CASCO} {PARA} {UN} {VEH{\'I}CULO}
+  {ACU{\'A}TICO} {ALIMENTADO} {CON} {ENERG{\'I}A} {SOLAR} ({VAES}) {EN} {LA}
+  {CUENCA} {BAJA} {DEL} {R{\'I}O} {SIN{\'U}}, {MONTER{\'I}A-C{\'O}RDOBA}}
+  {Dise{\~n}o {DE} {UN} {CASCO} {PARA} {UN} {VEH{\'I}CULO} {ACU{\'A}TICO}
+  {ALIMENTADO} {CON} {ENERG{\'I}A} {SOLAR} ({VAES}) {EN} {LA} {CUENCA} {BAJA}
+  {DEL} {R{\'I}O} {SIN{\'U}}, {MONTER{\'I}A-C{\'O}RDOBA}}\
+  \APACtypeAddressSchool {\BUMTh}{}{}.
+\unskip\
+\newblock
+\APACaddressSchool {}{UNIVERSIDAD DE C{\'O}RDOBA}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Pytel%
 }{%
 Pytel%
