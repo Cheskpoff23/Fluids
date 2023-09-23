@@ -8,13 +8,12 @@
 \contentsline {subsubsection}{\numberline {3.0.2}Fluido}{4}{}%
 \contentsline {subsubsection}{\numberline {3.0.3}Principio de Arquímedes}{4}{}%
 \contentsline {subsubsection}{\numberline {3.0.4}Centro de gravedad}{4}{}%
-\contentsline {subsubsection}{\numberline {3.0.5}Casco de deplazamiento}{4}{}%
-\contentsline {subsubsection}{\numberline {3.0.6}Dimensiones del Barco}{5}{}%
-\contentsline {subsubsection}{\numberline {3.0.7}Estabilidad}{5}{}%
-\contentsline {subsubsection}{\numberline {3.0.8}Metacentro}{6}{}%
-\contentsline {subsubsection}{\numberline {3.0.9}Flotabilidad}{6}{}%
-\contentsline {section}{\numberline {4}¿Qué se hizo?}{7}{}%
-\contentsline {section}{\numberline {5}Materiales y métodos}{7}{}%
-\contentsline {section}{\numberline {6}Contenido y Resultados}{8}{}%
-\contentsline {section}{\numberline {7}Conclusiones}{11}{}%
+\contentsline {subsubsection}{\numberline {3.0.5}Metacentro}{4}{}%
+\contentsline {subsubsection}{\numberline {3.0.6}Estabilidad}{5}{}%
+\contentsline {subsubsection}{\numberline {3.0.7}Flotabilidad}{5}{}%
+\contentsline {subsubsection}{\numberline {3.0.8}Casco de deplazamiento}{5}{}%
+\contentsline {subsubsection}{\numberline {3.0.9}Dimensiones del Barco}{6}{}%
+\contentsline {section}{\numberline {4}Materiales y máquinas}{7}{}%
+\contentsline {section}{\numberline {5}Contenido y Resultados}{8}{}%
+\contentsline {section}{\numberline {6}Conclusiones}{11}{}%
 \contentsline {section}{Referencias}{12}{}%
