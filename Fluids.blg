@@ -18,8 +18,8 @@ apacite.bst [2013/07/21 v6.03 APA bibliography style]
 You've used 6 entries,
             6951 wiz_defined-function locations,
             1305 strings with 11672 characters,
-and the built_in function-call counts, 10546 in all, are:
-= -- 1378
+and the built_in function-call counts, 10550 in all, are:
+= -- 1380
 > -- 72
 < -- 464
 + -- 498
@@ -34,7 +34,7 @@ cite$ -- 12
 duplicate$ -- 243
 empty$ -- 426
 format.name$ -- 114
-if$ -- 2070
+if$ -- 2072
 int.to.chr$ -- 0
 int.to.str$ -- 18
 missing$ -- 0
