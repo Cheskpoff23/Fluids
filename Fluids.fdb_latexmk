@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex Fluids"] 1695502707 "Fluids.aux" "Fluids.bbl" "Fluids" 1695503102 0
+["bibtex Fluids"] 1695502707 "Fluids.aux" "Fluids.bbl" "Fluids" 1695503403 0
   "./referenciados.bib" 1695175037 0 d41d8cd98f00b204e9800998ecf8427e ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/bibtex/bst/apacite/apacite.bst" 1374952728 146156 9d7b79dbf9d91133318126032cff8c27 ""
-  "Fluids.aux" 1695503100 3115 b5bdca0febbdac784dd539b680ce7ca2 "pdflatex"
+  "Fluids.aux" 1695503401 3115 b5bdca0febbdac784dd539b680ce7ca2 "pdflatex"
   (generated)
   "Fluids.bbl"
   "Fluids.blg"
   (rewritten before read)
-["pdflatex"] 1695503094 "c:/Users/gusta/OneDrive - SENA/Desktop/Fluids/Fluids.tex" "Fluids.pdf" "Fluids" 1695503102 0
+["pdflatex"] 1695503399 "c:/Users/gusta/OneDrive - SENA/Desktop/Fluids/Fluids.tex" "Fluids.pdf" "Fluids" 1695503403 0
   "C:/Users/gusta/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1695232033 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/gusta/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1695120301 24142036 e4ea9d5291b0248cfcdf345065ad18be ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1233951848 1120 1e8878807317373affa7f7bba4cf2f6a ""
@@ -222,12 +222,12 @@
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1650051284 20785 71a3d72ab517959a6979c27e6176bec1 ""
   "Cascobarco.png" 1695488506 130038 cf47525c96def33ffd5c2579a23cb686 ""
   "Collage1.png" 1695484534 5165605 d6f3b7d0f518a252d592fa9e8f0e93b4 ""
-  "Fluids.aux" 1695503100 3115 b5bdca0febbdac784dd539b680ce7ca2 "pdflatex"
+  "Fluids.aux" 1695503401 3115 b5bdca0febbdac784dd539b680ce7ca2 "pdflatex"
   "Fluids.bbl" 1695502708 52 0eba253fc001332e731e8aba3f23127b "bibtex Fluids"
-  "Fluids.tex" 1695503088 12508 972cbc2a2b728a2cc60811bcfd6878fb ""
-  "Fluids.toc" 1695503100 1256 69691626ae286a12f98f8307c0d33b00 "pdflatex"
+  "Fluids.tex" 1695503396 12509 2aed9e56cd4247af264988ffb3a9c63b ""
+  "Fluids.toc" 1695503401 1256 69691626ae286a12f98f8307c0d33b00 "pdflatex"
   "Metacentro.png" 1695479912 62739 1aafc40f4b3775d68aadc09c128546cd ""
-  "c:/Users/gusta/OneDrive - SENA/Desktop/Fluids/Fluids.tex" 1695503088 12508 972cbc2a2b728a2cc60811bcfd6878fb ""
+  "c:/Users/gusta/OneDrive - SENA/Desktop/Fluids/Fluids.tex" 1695503396 12509 2aed9e56cd4247af264988ffb3a9c63b ""
   "dimensionestemporal.jpg" 1695168452 43308 4966d2e7e2263b470e90f897e4c2e6ff ""
   "planosbarc.png" 1695482287 293145 503376851cff21bf5a84184411757a4d ""
   (generated)

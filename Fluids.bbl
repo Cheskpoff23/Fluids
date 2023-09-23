@@ -1,3 +1,125 @@
 \begin{thebibliography}{}
 
+\bibitem [\protect \citeauthoryear {%
+Barcelona%
+}{%
+Barcelona%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+Barcelona2015-nr}
+\APACinsertmetastar {%
+Barcelona2015-nr}%
+\begin{APACrefauthors}%
+Barcelona, E\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{{\APACmonth{01}}}{}.
+\newblock
+\APACrefbtitle {1 · {PNB-PER} · {NOMENCLATURA} {N{\'A}UTICA} - Escola Port -
+  Aula N{\'a}utica.} {1 · {PNB-PER} · {NOMENCLATURA} {N{\'A}UTICA} - escola
+  port - aula n{\'a}utica.}
+\newblock
+\APAChowpublished
+  {\url{https://aulanautica.org/unit/pnb-per-nomenclatura-nautica/}}.
+\newblock
+\APACaddressPublisher{}{Escola Port}.
+\newblock
+\APACrefnote{Accessed: 2023-9-23}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{\c C}engel%
+\ \BBA {} Cimbala%
+}{%
+{\c C}engel%
+\ \BBA {} Cimbala%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+Cengel2018-ms}
+\APACinsertmetastar {%
+Cengel2018-ms}%
+\begin{APACrefauthors}%
+{\c C}engel, Y\BPBI A.%
+\BCBT {}\ \BBA {} Cimbala, J\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2018}.
+\newblock
+\APACrefbtitle {Mec{\'a}nica de fluidos: fundamentos y aplicaciones}
+  {Mec{\'a}nica de fluidos: fundamentos y aplicaciones}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mott%
+}{%
+Mott%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+Mott2006-sn}
+\APACinsertmetastar {%
+Mott2006-sn}%
+\begin{APACrefauthors}%
+Mott, R\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2006}.
+\newblock
+\APACrefbtitle {Applied fluid mechanics} {Applied fluid mechanics}.
+\newblock
+\APACaddressPublisher{}{Pearson Educaci{\'o}n}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Pytel%
+}{%
+Pytel%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+Pytel2012-vt}
+\APACinsertmetastar {%
+Pytel2012-vt}%
+\begin{APACrefauthors}%
+Pytel, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2012}.
+\newblock
+\APACrefbtitle {Ingenier{\'\i}a mec{\'a}nica est{\'a}tica (3a. ed.)}
+  {Ingenier{\'\i}a mec{\'a}nica est{\'a}tica (3a. ed.)}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Streeter%
+\ \BBA {} Wylie%
+}{%
+Streeter%
+\ \BBA {} Wylie%
+}{%
+{\protect \APACyear {1991}}%
+}]{%
+Streeter1991-bb}
+\APACinsertmetastar {%
+Streeter1991-bb}%
+\begin{APACrefauthors}%
+Streeter, V.%
+\BCBT {}\ \BBA {} Wylie, E\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1991}.
+\newblock
+\APACrefbtitle {Mecanica de Los fluidos - 8 edicion} {Mecanica de los fluidos -
+  8 edicion}.
+\newblock
+\APACaddressPublisher{}{McGraw-Hill Companies}.
+\PrintBackRefs{\CurrentBib}
+
 \end{thebibliography}
