@@ -2,12 +2,12 @@
 ["bibtex Fluids"] 0 "Fluids.aux" "Fluids.bbl" "Fluids" 0 -1
   "./referenciados.bib" 1695504934 1832 6b8d96186eac8fa99d4a364bae8856b1 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/bibtex/bst/apacite/apacite.bst" 1374952728 146156 9d7b79dbf9d91133318126032cff8c27 ""
-  "Fluids.aux" 1695664457 4759 8fb43e7a820a6d400bef98b4d609d5b1 "pdflatex"
+  "Fluids.aux" 1695664562 4759 8fb43e7a820a6d400bef98b4d609d5b1 "pdflatex"
   (generated)
   "Fluids.bbl"
   "Fluids.blg"
   (rewritten before read)
-["pdflatex"] 1695664455 "c:/Users/gusta/OneDrive - SENA/Desktop/Fluids/Fluids.tex" "Fluids.pdf" "Fluids" 1695664458 2
+["pdflatex"] 1695664560 "c:/Users/gusta/OneDrive - SENA/Desktop/Fluids/Fluids.tex" "Fluids.pdf" "Fluids" 1695664564 2
   "C:/Users/gusta/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1695232033 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/gusta/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1695663717 11548 27e570bf05ba4597b84c165f7e1526b9 ""
   "C:/Users/gusta/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcti1000.pk" 1695503592 14064 7fda9b18d80f2aafb58f72782cb5cf31 ""
@@ -229,12 +229,12 @@
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1650051284 20785 71a3d72ab517959a6979c27e6176bec1 ""
   "Cascobarco.png" 1695488506 130038 cf47525c96def33ffd5c2579a23cb686 ""
   "Collage1.png" 1695484534 5165605 d6f3b7d0f518a252d592fa9e8f0e93b4 ""
-  "Fluids.aux" 1695664457 4759 8fb43e7a820a6d400bef98b4d609d5b1 "pdflatex"
+  "Fluids.aux" 1695664562 4759 8fb43e7a820a6d400bef98b4d609d5b1 "pdflatex"
   "Fluids.bbl" 1695664439 3711 decf621525ddfee91b918a541efe8169 "bibtex Fluids"
-  "Fluids.tex" 1695664449 13665 00b3a79347c49ac0a398550aa779f8eb ""
-  "Fluids.toc" 1695664457 1538 04b71ce2b166a12a5859d61fa5e7a42b "pdflatex"
+  "Fluids.tex" 1695664554 13624 797df77fc328d4545b3c8b2eb76f3b76 ""
+  "Fluids.toc" 1695664562 1538 04b71ce2b166a12a5859d61fa5e7a42b "pdflatex"
   "Metacentro.png" 1695479912 62739 1aafc40f4b3775d68aadc09c128546cd ""
-  "c:/Users/gusta/OneDrive - SENA/Desktop/Fluids/Fluids.tex" 1695664449 13665 00b3a79347c49ac0a398550aa779f8eb ""
+  "c:/Users/gusta/OneDrive - SENA/Desktop/Fluids/Fluids.tex" 1695664554 13624 797df77fc328d4545b3c8b2eb76f3b76 ""
   "dimensionestemporal.jpg" 1695168452 43308 4966d2e7e2263b470e90f897e4c2e6ff ""
   "planosbarc.png" 1695482287 293145 503376851cff21bf5a84184411757a4d ""
   (generated)
