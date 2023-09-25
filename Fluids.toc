@@ -1,0 +1,23 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{2}{}%
+\contentsline {section}{\numberline {2}Objetivos}{3}{}%
+\contentsline {subsubsection}{\numberline {2.0.1}Objetivo General}{3}{}%
+\contentsline {subsubsection}{\numberline {2.0.2}Objetivos Específicos}{3}{}%
+\contentsline {section}{\numberline {3}Teoría Relacionada}{4}{}%
+\contentsline {subsubsection}{\numberline {3.0.1}Hidrostática}{4}{}%
+\contentsline {subsubsection}{\numberline {3.0.2}Fluido}{4}{}%
+\contentsline {subsubsection}{\numberline {3.0.3}Principio de Arquímedes}{4}{}%
+\contentsline {subsubsection}{\numberline {3.0.4}Centro de gravedad}{4}{}%
+\contentsline {subsubsection}{\numberline {3.0.5}Metacentro}{4}{}%
+\contentsline {subsubsection}{\numberline {3.0.6}Estabilidad}{5}{}%
+\contentsline {subsubsection}{\numberline {3.0.7}Flotabilidad}{5}{}%
+\contentsline {subsubsection}{\numberline {3.0.8}Casco de deplazamiento}{5}{}%
+\contentsline {subsubsection}{\numberline {3.0.9}Dimensiones del Barco}{6}{}%
+\contentsline {section}{\numberline {4}Materiales y máquinas}{7}{}%
+\contentsline {section}{\numberline {5}Contenido y Resultados}{8}{}%
+\contentsline {subsection}{\numberline {5.1}Línea de Flotabilidad}{10}{}%
+\contentsline {subsection}{\numberline {5.2}Centro de flotación}{10}{}%
+\contentsline {subsection}{\numberline {5.3}Centro de gravedad}{11}{}%
+\contentsline {subsection}{\numberline {5.4}Metacentro}{11}{}%
+\contentsline {section}{\numberline {6}Conclusiones}{11}{}%
+\contentsline {section}{Referencias}{13}{}%
