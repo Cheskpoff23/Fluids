@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.19)  23 SEP 2023 16:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.19)  25 SEP 2023 12:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -802,10 +802,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
- (Fluids.aux
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
-)
+ (Fluids.aux)
 \openout1 = `Fluids.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
@@ -894,70 +891,78 @@ Package pgfplots Warning: running in backwards compatibility mode (unsuitable ti
 Non-PDF special ignored!
 <special> header=psfrag.pro
 
-{C:/Users/gusta/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Fluids.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
- (C:\Users\gusta\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
- (C:\Users\gusta\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+{C:/Users/gusta/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+No file Fluids.toc.
 \tf@toc=\write5
 \openout5 = `Fluids.toc'.
 
- [1]
-Underfull \hbox (badness 10000) in paragraph at lines 48--54
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 49--55
 
  []
 
 [2] [3]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 96.
+ (C:\Users\gusta\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 96.
+ (C:\Users\gusta\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 <Metacentro.png, id=21, 452.4403pt x 176.91093pt>
 File: Metacentro.png Graphic file (type png)
 <use Metacentro.png>
-Package pdftex.def Info: Metacentro.png  used on input line 116.
+Package pdftex.def Info: Metacentro.png  used on input line 117.
 (pdftex.def)             Requested size: 281.8561pt x 110.21002pt.
  [4]
 <dimensionestemporal.jpg, id=29, 306.52449pt x 216.81pt>
 File: dimensionestemporal.jpg Graphic file (type jpg)
 <use dimensionestemporal.jpg>
-Package pdftex.def Info: dimensionestemporal.jpg  used on input line 161.
+Package pdftex.def Info: dimensionestemporal.jpg  used on input line 162.
 (pdftex.def)             Requested size: 375.80574pt x 265.8311pt.
  [5 <./Metacentro.png>] [6 <./dimensionestemporal.jpg>] [7]
 <planosbarc.png, id=41, 785.18344pt x 343.2825pt>
 File: planosbarc.png Graphic file (type png)
 <use planosbarc.png>
-Package pdftex.def Info: planosbarc.png  used on input line 191.
+Package pdftex.def Info: planosbarc.png  used on input line 192.
 (pdftex.def)             Requested size: 328.82733pt x 143.76385pt.
 <Cascobarco.png, id=42, 642.14906pt x 495.35063pt>
 File: Cascobarco.png Graphic file (type png)
 <use Cascobarco.png>
-Package pdftex.def Info: Cascobarco.png  used on input line 200.
+Package pdftex.def Info: Cascobarco.png  used on input line 201.
 (pdftex.def)             Requested size: 328.82733pt x 253.66098pt.
  [8 <./planosbarc.png> <./Cascobarco.png>]
 <Collage1.png, id=48, 2007.5pt x 2007.5pt>
 File: Collage1.png Graphic file (type png)
 <use Collage1.png>
-Package pdftex.def Info: Collage1.png  used on input line 209.
+Package pdftex.def Info: Collage1.png  used on input line 210.
 (pdftex.def)             Requested size: 469.75539pt x 469.74086pt.
- [9 <./Collage1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 230--232
+ [9 <./Collage1.png>] [10]
+Underfull \hbox (badness 10000) in paragraph at lines 264--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 237--241
+Underfull \hbox (badness 10000) in paragraph at lines 271--278
 
  []
 
+[11] [12] (Fluids.bbl) [13]
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--249
+c:/Users/gusta/OneDrive - SENA/Desktop/Fluids/Fluids.tex:297: LaTeX Error: \begin{itemize} on input line 279 ended by \end{document}.
 
- []
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.297 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-[10] [11] (Fluids.bbl) [12] (Fluids.aux
+(Fluids.aux
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
 )
@@ -965,19 +970,28 @@ LaTeX Info: Redefining \% on input line 9.
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
- ) 
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(\end occurred inside a group at level 2)
+
+### semi simple group (level 2) entered at line 279 (\begingroup)
+### semi simple group (level 1) entered at line 278 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 30159 strings out of 475248
- 733273 string characters out of 5757813
- 1926801 words of memory out of 5000000
- 51135 multiletter control sequences out of 15000+600000
- 565231 words of font info for 62 fonts, out of 8000000 for 9000
+ 30160 strings out of 475248
+ 733234 string characters out of 5757813
+ 1928801 words of memory out of 5000000
+ 51137 multiletter control sequences out of 15000+600000
+ 565864 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,7n,103p,765b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\gusta\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcti1000.pk><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Fluids.pdf (13 pages, 7756629 bytes).
+ <C:\Users\gusta\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcti1000.pk> <C:\Users\gusta\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Fluids.pdf (14 pages, 7753476 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
+ 121 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  38 words of extra memory for PDF output out of 10000 (max. 10000000)
 

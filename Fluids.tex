@@ -36,7 +36,8 @@
 	\vspace{3cm}
 
 	{\Large Vergara Pareja Gustavo\\Valdéz Godin Aldair\\Pila Mendoza José\par}
-	\vspace{5cm}
+	\vspace{4cm}
+	{\scshape\Large Alonso Perdomo \par}
 	{\scshape\Large Programa de Ingeniería Mecánica \par}
 	{\scshape\Large Universidad de Córdoba\par}
 	{\Large \today \par}
@@ -183,7 +184,7 @@ Los materiales utilizados para el desarrollo de este casco fueron:
 \section{Contenido y Resultados}
 %contentsline{toc}{section}{Contenido y Resultados}
 El objetivo de este proyecto fué estudiar el movimiento del casco de un bote y realizar cálculos empíricos
-de su flotabilidad, estabilidad y análisis de fuerzas. En la práctica, se construyó el casco de un barco 
+de su flotabilidad, estabilidad y análisis de fuerzas. Para el diseño, se construyó el casco de un barco 
 a escala, y luego se realizaron pruebas en condiciones controladas de agua.
 Para el desarrollo de este proyecto, hicimos una búsqueda exhaustiva de modelos e ideas para construir el casco del barco.
 \begin{figure}[H]
@@ -221,38 +222,70 @@ Para el desarrollo de este proyecto, hicimos una búsqueda exhaustiva de modelos
 	%\label{fig:imagen3}
 %\end{figure}
 %\newpage
-Con SolidWorks Simulation, es posible realizar análisis de elementos finitos (FEA) para determinar las tensiones, deformaciones y factores de seguridad en la herramienta de corte y otras piezas importantes de la máquina.
-Por otro lado, con SolidWorks Motion, es posible simular el movimiento de la máquina y su comportamiento dinámico bajo diferentes condiciones de carga.
+A continuación, se presenta el análisis hidrostático del barco; El cual tiene dos momentos uno con el barco sin peso y otro con peso:
 \newline
-A continuación calcularemos:
+Ahora, definimos algunas propiedades del barco:
+\begin{equation}
+	\rho_{roble}=\frac{m_{barco}}{V_{barco}} \rightarrow {V_{barco}}=\frac{ m_{barco}} {\rho_{roble}}
+\end{equation}
 
+\begin{equation}
+	 {V_{barco}}=\frac{ 815g} {0,8 \cdot g/cm^3} = 1018,75 cm^3
+\end{equation}
+\subsection{Línea de Flotabilidad}
+Ahora bien, sabiendo que $W$=$F_b$; 
+\begin{equation}
+	L_{sum}=\frac{{V_{barco}} \cdot \rho_{roble}}{0,4~cm \cdot 0,12~cm \cdot \rho_{agua}}=\frac{{1018,75~cm^3} \cdot 0.8g/cm^3}{360~cm^2 \cdot 1g/~cm^3}=2,20~cm
+\end{equation}
+Por lo tanto la línea de flotabilidad se encuentra a 2,20 cm desde el fondo del barco.
+\subsection{Centro de flotación}
+EL centro de flotación será el centro de gravedad del volumen desplazado.
+\newline
+\hspace{0.5cm}$V_{d}=V_{sum}$;
+\begin{equation}
+	V_{sum}= \frac{(\pi \cdot ab)*27~cm}{2} = \frac{(\pi \cdot 2,2cm \cdot 6cm)*27~cm}{2} = 560~cm^3
+\end{equation}
+$C_{b}$ = Centroide de la carena sumergida.
+La carena sumergida tiene la forma de media elipse; Así entonces,:
+$\bar{x}=a = 5~cm$;
+\newline 
+$\bar{y}= \frac{4b}{3\pi} = \frac{4(2,2cm)}{3\pi} = 0,934cm$
+\newline
+Así entonces, el centro de flotación se ubica 0,934 cm desde el fondo del barco.
+\newpage 
+\subsection{Centro de gravedad}
+$C_{g}$ = Centro de gravedad de la figura.
+\newline
+$\bar{x}=0 cm$;
+\newline 
+$\bar{y}= \frac{4r}{3\pi} = \frac{4(6cm)}{3\pi} = 2,55~cm$
+Así entonces, el centro de gravedad se ubica 2,55 cm desde el fondo del barco.
+\subsection{Metacentro}
+$M_{c}$ = $C_{b}$ + $MB$
+\newline
+\begin{equation}
+	MB=\frac{I_{c}}{V_{d}} = [\frac{(20~cm \cdot 12~cm^3)}{12} + \frac{(20~cm \cdot 12~cm^3)}{36}] \cdot \frac{1}{1018,75cm^3} = 3,769~cm
+\end{equation}
+\begin{equation}
+	M_{c} = C_{b} + MB = 4,7cm
+\end{equation}
+\newline
+Así entonces, el Metacentro se ubica 4,7 cm desde el fondo del barco.
+\newline
+Todos estos calculos fueron realizados sin la masa de 300g sobre el barco.
+A continuacion se realizarian los mismos calculos pero con la masa de 300g sobre el casco, el procedimiento es el mismo y los datos estimados son:
+\newline
 \begin{itemize}
-	\item Velocidad
-	      \newline
-	      $$v=\frac{y}{t}=\frac{0.1m}{1s}=10cm/s$$
-	\item Aceleracion
-	      \newline
-	      La aceleración de las cabinas sera igual a 0, ya que por la primera Ley de Newton, estos cuerpos
-	      estan bajo velocidad constante.
-	\item Tensión
-	      \newline
-	      Podemos calcular fuerza de tensión en los cables que sostienen las cabinas. Para hacer esto, podemos usar la segunda ley de Newton, que establece que la fuerza neta sobre un objeto es igual a su masa multiplicada por su aceleración. En este caso, la aceleración de las cabinas es cero, por lo que la fuerza neta es cero. Por lo tanto, la suma de las fuerzas en cada cabina debe ser igual a cero. Podemos escribir esto como:
-	      \newline
-	      $$F_{T}-\left ( m_{1}*g \right )-\left ( m_{2}*g \right )=0$$
-	      $$F_{T}=\left ( 0.04kg*9.81\frac{m}{{s}^2} \right )+\left ( 0.04kg*9.81\frac{m}{{s}^2} \right )=0.8N$$
-	\item Potencia
-	      $$W=2T\cdot v=\left ( 0.8N \right )\left ( 0.1m/s \right )=0.08W$$
-	\item Velocidad angular del eje:
-	      \newline
-	      Podemos calcular la velocidad angular del eje utilizando la fórmula:
-	      \newline
-	      $$w = v/r$$
-	      $$w =\left ( 0.1m/s \right )/\left ( 0.02m \right )=5 rad/s$$
-\end{itemize}
+	\item \begin{itemize}
+	\item La línea de flotabilidad se encuentra a  3,1 cm desde el fondo del barco.
+	\item El centro de flotación se ubica 4,68 cm desde el fondo del barco.
+	\item El centro de gravedad se ubica 3,45 cm desde el fondo del barco.
+	\item El Metacentro se ubica 5,09 cm desde el fondo del barco.
+
 \section{Conclusiones}
 %contentsline{toc}{section}{Conclusiones}
 En conclusión, el proyecto de diseño y construcción de un bote basado en los principios de flotabilidad y estabilidad es una oportunidad para aplicar los conocimientos teóricos de la mecánica de fluidos de manera práctica y significativa. A lo largo del proyecto, se han abordado conceptos clave como el principio de Arquímedes, el centro de flotación y la estabilidad.
-El diseño y construcción de un bote que cumpla con los principios mencionados requiere un enfoque integral que considere tanto los aspectos teóricos como los prácticos. Se han explorado conceptos teóricos fundamentales y se han aplicado en la práctica a través de la construcción del bote y la evaluación experimental de su desempeño en términos de flotabilidad y estabilidad.
+El diseño y construcción de un bote que cumpla con los principios mencionados requiere un enfoque integral que considere tanto los aspectos teóricos como los prácticos. Las dificultades enfrentadas se presentaron al momento de construirlo. El diseño se compone de cortes complejos, y hacer los cortes perfectos es un trabajo muy difícil, tales imperfecciones afectaron la precisión de los calculos. Se han explorado conceptos teóricos fundamentales y se han aplicado en la práctica a través de la construcción del bote y la evaluación experimental de su desempeño en términos de flotabilidad y estabilidad.
 Este proyecto ha permitido comprender la relación entre la teoría de la mecánica de fluidos y su aplicación práctica en el diseño y construcción de embarcaciones. Estos conocimientos adquiridos son valiosos tanto en el ámbito académico como en el profesional, ya que la mecánica de fluidos juega un papel fundamental en numerosas disciplinas relacionadas con el diseño.
 
 
